@@ -1,6 +1,6 @@
 # youtube-delay
 
-Makes the sound sound more surrounded
+Makes the youtube sound more surrounded
 
 ## Usage
 1. Goto your video in youtube or youtube music
