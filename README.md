@@ -4,13 +4,13 @@ Makes the youtube sound more surrounded
 
 ## Usage
 
+Using UserScript:
+You can install this script in https://greasyfork.org/ko/scripts/454751-simple-youtube-surround
+
 Using DevTools:
 
 1. Goto your video in youtube or youtube music  
 2. Put this code to console of DevTools
-
-Using UserScript:
-You can install this script in https://greasyfork.org/ko/scripts/454751-simple-youtube-surround
 
 ```javascript
 const context = new AudioContext();
