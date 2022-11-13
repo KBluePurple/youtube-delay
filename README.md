@@ -1,10 +1,10 @@
 # youtube-delay
 
-Makes the sound sound more surrounded.
+Makes the sound sound more surrounded
 
 ## Usage
-1. Goto your video in youtube or youtube music.
-2. Put this code to console of DevTools.
+1. Goto your video in youtube or youtube music
+2. Put this code to console of DevTools
 
 ```javascript
 const context = new AudioContext();
@@ -31,9 +31,13 @@ rightDelay.connect(merger, 0, 1);
 merger.connect(context.destination);
 ```
 
-If you want edit delay values use this code.
+If you want edit delay values use this code
 
 ```javascript
 leftDelay.delayTime.value = 0;
 rightDelay.delayTime.value = 0.01;
 ```
+
+## How does it work?
+
+It gives one of the audio channels of the YouTube video a delay of 20 ms to give it a surround effect
