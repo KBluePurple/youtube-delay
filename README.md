@@ -41,3 +41,5 @@ rightDelay.delayTime.value = 0.01;
 ## How does it work?
 
 It gives one of the right audio channels of the YouTube video a delay of 10 ms to give it a surround effect
+
+You can install this script in https://greasyfork.org/ko/scripts/454751-simple-youtube-surround
