@@ -1,18 +1,19 @@
 // ==UserScript==
 // @name         Simple Youtube Surround
 // @name:ko    유튜브 서라운드
-// @name:cn    简单YouTube环境
+// @name:zh-CN    简单YouTube环境
 // @namespace       https://github.com/KBluePurple/youtube-delay
 // @supportURL      https://github.com/KBluePurple/youtube-delay/issues
-// @version      0.1
+// @version      0.2
 // @description  Makes the youtube sound more surrounded ( It's better when you listen to music )
 // @description:ko  조금 더 서라운드를 느낄 수 있도록 해줍니다. ( 노래를 들을 때 더 좋음 )
-// @description:cn 让您再感受一点环绕感。 （听歌的时候更好）
+// @description:zh-CN 让您再感受一点环绕感。 （听歌的时候更好）
 // @author       KBluePurple
 // @match           https://www.youtube.com/*
+// @match           https://music.youtube.com/*
 // @match           https://m.youtube.com/*
 // @match           https://www.youtube-nocookie.com/*
-// @match           https://music.youtube.com/*
+// @license MIT
 // @icon         none
 // @grant        none
 // ==/UserScript==
